@@ -2,7 +2,7 @@
 
 ## Components library
 
-The project is located [here](https://github.com/areyesdev/app-productivity.gi)
+The project is located [here](https://github.com/areyesdev/app-productivity.git)
 
 ## Welcome to the Web
 
