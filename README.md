@@ -15,6 +15,9 @@ The project is located [here](https://github.com/areyesdev/app-productivity.git)
 
 ### Design Tokens [Components]
 
+- Create tokens.js file
+- Create script to transform the tokens into custom properties
+
 ### Atoms & Molecules [Components]
 
 - Create Paragraph Atom
