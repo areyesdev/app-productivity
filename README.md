@@ -17,4 +17,6 @@ The project is located [here](https://github.com/areyesdev/app-productivity.git)
 
 ### Atoms & Molecules [Components]
 
+- Create Paragraph Atom
+- Create Heading Atom
 - Create Button Molecule
