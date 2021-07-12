@@ -8,7 +8,6 @@ const toKebabCase = (string) =>
     .replace(/[\s_]+/g, "-")
     .toLowerCase();
 
-module.exports = toKebabCase;
 const cleanLines = (string = "") => string.trim().replace(/^\n\n/gm, "\n");
 
 function transformTokens(parentKey, object) {
