@@ -39,8 +39,10 @@ function buildTokens() {
 
   const data = `:root {\n  ${cleanLines(customProperties)}\n}\n`;
 
-  fs.writeFile("./tokens.css", data, "utf8", (error) => {
-    if (error) throw error;
+  fs.writeFile("./styles/tokens.css", data, "utf8", function (error) {
+    if (error) {
+      throw error;
+    }
     console.log("🎨 Custom properties created!");
   });
 }
