@@ -23,3 +23,7 @@ The project is located [here](https://github.com/areyesdev/app-productivity.git)
 - Create Paragraph Atom
 - Create Heading Atom
 - Create Button Molecule
+
+# Notes
+
+- TODO: Decidir cómo debería comportarse nuestro Atomic Design, respecto a que debería ser un Atomo o una Molecula.
